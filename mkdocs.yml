@@ -1,0 +1,10 @@
+﻿site_name: Oliv — Data & IA
+site_description: Projets sélectionnés — pipelines data, IA appliquée, géospatial et visualisation.
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - content.code.copy
+nav:
+  - Accueil: index.md
+  - Projets: projets.md
